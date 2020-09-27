@@ -49,7 +49,7 @@ I am a Bioinformatics Analyst working at Rockefeller University. I have skills i
 
 I completed my PhD at New York University, in the labs of Sevinç Ercan and Andreas Hochwagen. I studied the action of the condensin complex on chromatin conformation. 
 
-When I'm not coding (and to be honest nearly all the time I am coding) I am listening to music. I spout my opinions about this music on the [Picky Bastards](www.pickybs.com) music blog and podcast. 
+When I'm not coding (and to be honest nearly all the time I am coding) I am listening to music. I spout my opinions about this music on the [Picky Bastards]("https://www.pickybs.com") music blog and podcast. 
 
 
 
