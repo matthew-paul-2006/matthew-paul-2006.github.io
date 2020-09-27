@@ -42,16 +42,17 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### why **hello**?  
 
-### **hello** has a simple goal: to make GitHub Pages accessible to everyone.  
+### Hi there. My name is Matt. 
+
+I am a Bioinformatics Analyst working at Rockefeller University. I have skills in a wide-range of genomics and image analysis. I also regularly teach Bioinformatics at a variety of levels. Our teaching materials are all available publicly on [GitHub](https://rockefelleruniversity.github.io/).
+
+I completed my PhD at New York University, in the labs of Sevinç Ercan and Andreas Hochwagen. I studied the action of the condensin complex on chromatin conformation. 
+
+When I'm not coding (and to be honest nearly all the time I am coding) I am listening to music. I spout my opinions about this music on the [Picky Bastards](www.pickybs.com) music blog and podcast. 
+
+
+
   
-**hello** is a minimalist template that lets you design a beautiful website or portfolio on GitHub Pages - without installing a Ruby
-development environment, learning to use Jekyll, **or even typing a single line of code**. It's ideal for GitHubbers
-who want to start building their personal website on [GitHub Pages](https://pages.github.com/), but maybe aren't so familiar with web development.
   
 
-The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).  
-
-
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.
